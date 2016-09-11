@@ -1,0 +1,2 @@
+# firestarter
+The FireStarter project
