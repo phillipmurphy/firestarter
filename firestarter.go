@@ -6,4 +6,5 @@ import (
 
 func main() {
 	log.Println("Awesome!!")
+	log.Println("By: Phil Murphy")
 }
